@@ -2,6 +2,7 @@
 title: Cite as you Write
 redirect_from: cayw.html
 ---
+
 # Cite as you Write
 
 Good news for TeXnicians and those down with Mark (aka Markdown, RST, whatnot): this is the time to go pester the author of your favorite editor for Zotero integration! 

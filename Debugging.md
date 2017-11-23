@@ -1,6 +1,7 @@
 ---
 title: Debugging
 ---
+
 # Debugging
 
 Testing BBT is a little involved I'm afraid, but here goes:

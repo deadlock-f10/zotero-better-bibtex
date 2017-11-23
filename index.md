@@ -2,6 +2,7 @@
 title: Better BibTeX
 redirect_from: niceties.html
 ---
+
 <!-- WARNING: GENERATED FROM https://github.com/retorquere/zotero-better-bibtex/blob/master/README.md. EDITS WILL BE OVERWRITTEN -->
 
 # Better Bib(La)TeX for Zotero/Juris-M [![Circle CI](https://circleci.com/gh/retorquere/zotero-better-bibtex.svg?style=shield)](https://circleci.com/gh/retorquere/zotero-better-bibtex)

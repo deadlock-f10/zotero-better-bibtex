@@ -8,6 +8,7 @@ redirect_from:
 - From-Unicode-to-LaTeX-and-Back-Again.html
 - Unnecessarily-complicated-BibTeX-output?.html
 ---
+
 # Unnecessarily complicated BibTeX output
 
 Zotero does all its work in UTF-8 Unicode, which is absolutely the right thing to do. Unfortunately, for those shackled

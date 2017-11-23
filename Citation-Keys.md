@@ -2,6 +2,7 @@
 title: Citation Keys
 redirect_from: citation-keys.html
 ---
+
 # Citation Keys
 
 Standard Zotero BibTeX citations keys are fully auto-generated, using an algorithm that usually generates unique keys. For serious LaTeX

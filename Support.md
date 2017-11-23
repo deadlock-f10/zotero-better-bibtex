@@ -2,6 +2,7 @@
 title: Support
 redirect_from: support.html
 ---
+
 # Support
 
 <!-- WARNING: GENERATED FROM https://github.com/retorquere/zotero-better-bibtex/blob/master/CONTRIBUTING.md. EDITS WILL BE OVERWRITTEN -->

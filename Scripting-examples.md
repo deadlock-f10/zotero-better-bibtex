@@ -1,6 +1,7 @@
 ---
 title: Scripting examples
 ---
+
 # Scripting examples
 
 # You wanted customized...
